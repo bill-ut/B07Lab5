@@ -1,10 +1,10 @@
 package lab4;
 
 public class Circle {
-	point A;
+	Point A;
 	Double radius;
 	
-	public Circle(point A, double radius) {
+	public Circle(Point A, double radius) {
 		this.A = A;
 		this.radius = radius;
 		
