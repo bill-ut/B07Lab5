@@ -2,6 +2,7 @@ package lab4;
 
 public class Circle {
 	Point A;
+	
 	Double radius;
 	
 	public Circle(Point A, double radius) {
